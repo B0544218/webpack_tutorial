@@ -1,0 +1,7 @@
+請先安裝
+npm @vuepress
+npm install vuepress-plugin-copy-code2
+npm i @vuepress/plugin-search
+
+啟動
+npm start
